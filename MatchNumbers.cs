@@ -8,7 +8,7 @@ namespace StartEndNumber
         {
 
             if (HowManyNumMatch(" ") > 0)
-                Console.WriteLine("The matched number is :  " + HowManyNumMatch(""));
+                Console.WriteLine("The matched number is :  " + HowManyNumMatch("999"));
             else
             {
                     Console.WriteLine("There is no matched number !");
